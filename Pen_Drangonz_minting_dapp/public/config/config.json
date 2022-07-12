@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6d2DCba615175763eDde5D846CE00f4a387Cd219",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6d2DCba615175763eDde5D846CE00f4a387Cd219",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pen Dragonz",
+  "SYMBOL": "PDZ",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 499000000000000000000,
+  "DISPLAY_COST": 499,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pen-dragonz",
+  "SHOW_BACKGROUND": true
+}
